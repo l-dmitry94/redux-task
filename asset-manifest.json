@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.c3d5249d.css",
-    "main.js": "/react-homework-template/static/js/main.cd25cab1.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.c3d5249d.css.map": "/react-homework-template/static/css/main.c3d5249d.css.map",
-    "main.cd25cab1.js.map": "/react-homework-template/static/js/main.cd25cab1.js.map"
+    "main.css": "/redux-task/static/css/main.c3d5249d.css",
+    "main.js": "/redux-task/static/js/main.cd25cab1.js",
+    "index.html": "/redux-task/index.html",
+    "main.c3d5249d.css.map": "/redux-task/static/css/main.c3d5249d.css.map",
+    "main.cd25cab1.js.map": "/redux-task/static/js/main.cd25cab1.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
