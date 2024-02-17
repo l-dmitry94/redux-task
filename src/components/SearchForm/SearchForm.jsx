@@ -20,7 +20,7 @@ export const SearchForm = () => {
       id: nanoid(),
       text: query,
     };
-    dispatch(addTodos(todo));
+    dispatch(addTodos(todo));  
     setQuery('');
   };
 
